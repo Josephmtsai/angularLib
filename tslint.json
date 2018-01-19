@@ -1,0 +1,9 @@
+{
+  "extends": "tslint-config-mwl",
+  "rules": {
+    "directive-selector": [true, "attribute", "directive", "camelCase"],
+    "component-selector": [true, "element", "directive", "kebab-case"],
+    "pipe-naming": [true, "camelCase", "directive"],
+    "no-inferrable-types": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "Josephmtsai",
+    "githubRepoName": "angularLibDemo",
+    "npmModuleName": "angularLibDemo",
+    "ngModuleName": "AngularLibDemoModule",
+    "selectorPrefix": "directive",
+    "projectTitle": "angularLibDemo",
+    "projectDescription": "",
+    "authorName": "JosephTsai",
+    "packageManager": "npm"
+  }
+}
