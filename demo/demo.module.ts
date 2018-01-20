@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { AngularLibDemoModule } from '../src';
+import { AngularLibModule } from '../src';
 import { DemoComponent } from './demo.component';
 
 @NgModule({
   declarations: [DemoComponent],
-  imports: [BrowserModule, AngularLibDemoModule.forRoot()],
+  imports: [BrowserModule, AngularLibModule.forRoot()],
   bootstrap: [DemoComponent]
 })
 export class DemoModule {}

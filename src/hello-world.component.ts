@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   template: 'Hello world from the {{ projectTitle }} module!'
 })
 export class HelloWorldComponent {
-  projectTitle: string = 'angularLibDemo';
+  projectTitle: string = 'angularLib';
 }

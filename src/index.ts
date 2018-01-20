@@ -1,1 +1,1 @@
-export * from './angular-lib-demo.module';
+export * from './angular-lib.module';
